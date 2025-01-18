@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kzamora1
-- 👀 I’m interested in crypto dev
 - 🌱 I’m currently learning github
 - 💞️ I’m looking to volunteer for new projects
 - 📫 How to reach me: kevin_zamora@yahoo.com (Put "GitHub:" as a preface on the subject line.
